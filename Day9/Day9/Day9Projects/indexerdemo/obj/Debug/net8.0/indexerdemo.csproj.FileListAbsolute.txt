@@ -1,0 +1,14 @@
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\bin\Debug\net8.0\indexerdemo.exe
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\bin\Debug\net8.0\indexerdemo.deps.json
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\bin\Debug\net8.0\indexerdemo.runtimeconfig.json
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\bin\Debug\net8.0\indexerdemo.dll
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\bin\Debug\net8.0\indexerdemo.pdb
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\indexerdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\indexerdemo.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\indexerdemo.AssemblyInfo.cs
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\indexerdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\indexerdemo.dll
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\refint\indexerdemo.dll
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\indexerdemo.pdb
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\indexerdemo.genruntimeconfig.cache
+D:\GreatLearning4\Day9\Day9Projects\indexerdemo\obj\Debug\net8.0\ref\indexerdemo.dll

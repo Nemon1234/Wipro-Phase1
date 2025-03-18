@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Day10\\Day10Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E2C877-3CF8-4040-9BA7-A97C4E30F5DB}|Log4NetDemo\\Log4NetDemo.csproj|d:\\greatlearning4\\day10\\day10projects\\log4netdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5E2C877-3CF8-4040-9BA7-A97C4E30F5DB}|Log4NetDemo\\Log4NetDemo.csproj|solutionrelative:log4netdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E2C877-3CF8-4040-9BA7-A97C4E30F5DB}|Log4NetDemo\\Log4NetDemo.csproj|d:\\greatlearning4\\day10\\day10projects\\log4netdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E2C877-3CF8-4040-9BA7-A97C4E30F5DB}|Log4NetDemo\\Log4NetDemo.csproj|solutionrelative:log4netdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEB8507-A388-4582-8434-2DBE6D4B3EB6}|EncrcyptDecryptdemo\\EncrcyptDecryptdemo.csproj|d:\\greatlearning4\\day10\\day10projects\\encrcyptdecryptdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEB8507-A388-4582-8434-2DBE6D4B3EB6}|EncrcyptDecryptdemo\\EncrcyptDecryptdemo.csproj|solutionrelative:encrcyptdecryptdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|d:\\greatlearning4\\day10\\day10projects\\securitydemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|d:\\greatlearning4\\day10\\day10projects\\securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|d:\\greatlearning4\\day10\\day10projects\\securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|d:\\greatlearning4\\day10\\day10projects\\securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|d:\\greatlearning4\\day10\\day10projects\\securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A9E3D4-294C-4AB8-92FC-6DCB2C809A5F}|SecurityDemo\\SecurityDemo.csproj|solutionrelative:securitydemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\Log4NetDemo\\App.config",
+              "RelativeDocumentMoniker": "Log4NetDemo\\App.config",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\Log4NetDemo\\App.config",
+              "RelativeToolTip": "Log4NetDemo\\App.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-11T07:16:24.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\Log4NetDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Log4NetDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\Log4NetDemo\\Program.cs",
+              "RelativeToolTip": "Log4NetDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:15:25.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\EncrcyptDecryptdemo\\Program.cs",
+              "RelativeDocumentMoniker": "EncrcyptDecryptdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\EncrcyptDecryptdemo\\Program.cs",
+              "RelativeToolTip": "EncrcyptDecryptdemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:15:30.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\MainForm.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\MainForm.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\MainForm.cs",
+              "RelativeToolTip": "SecurityDemo\\MainForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:07:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Form1.Designer.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\Form1.Designer.cs",
+              "RelativeToolTip": "SecurityDemo\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:50:13.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\MainForm.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\MainForm.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\MainForm.cs [Design]",
+              "RelativeToolTip": "SecurityDemo\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:35:08.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\Form1.cs",
+              "RelativeToolTip": "SecurityDemo\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwCsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:13:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "SecurityDemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day10\\Day10Projects\\SecurityDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "SecurityDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:05:10.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
