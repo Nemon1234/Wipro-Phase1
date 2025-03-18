@@ -1,0 +1,345 @@
+Slide explanation(presenataion1) :
+---------------------------------------
+
+
+---> What is the vision of .net ?
+
+This is the vision of .net and by seeeing this image we can say how .net is widely evolved on internet.we can see there different devices like laptop ,desktop,pdas and handle devices and mobile phones so for all kinds of devices there is a support for .net that means user can use any device ,any place and at any time through internet they can connect to the servers on this servers we are going to install web services which we will discuss later on so these web services use servers and which in turn locally connected to data processing system(back office application) here .so this back office application earlier were local and now these application are avilable to whole world via internet  finally main vision of .net programming is  any device any apllication any place any time we should be able to communicate and use the application .so that is the big vision of .net .
+
+---> So now next question is what we can do with  .net ?
+
+
+show them second slide and tell that  in industry two types of programmers are there one is system programmer and another one is application programmer so system programmer is the one which writes programs which will run hardware devices in the computer.It sends low level signals to hardware and this sits between operating system and hardware we say assembly programming and all that and device drivers programming etc .In this there is no tester required all bugs in the project are known by system only and it is very diffcult to use system programming as coding becomes difficult when complexity of project increases.tell them example that suppose lan card is not working u will install drivers for laptop for those kinds system level programming we call it as okay .Application programming means based on requirement we create the applications for example calculator application and when we want to store data in the form of grids we created application like excel and many more .so any kind of day to day requirement of ordinary person which we can do through system we can say it as application programming .so anything which falls under the category of application programming .net programmer can do .so i am giving a wide vision of .net u think of what kinds of applications your parents need,your friends need and what ur boss will need or u will neeed and that doesnt require low level instructions then u can go for ready made solution which is .net .
+
+
+
+
+-----> Next question we have to understand what is a platform and framework ?
+
+
+show them slide 3 and then tell
+
+Many people say that platform and os is same no os is os but platform is something over os we ask generally  which  platform u are working i am working in .net or java platform so what is this platform now tell from the slide the defnition . we have two types in this development and production platform in development platform our in house developer sit and write code and when the product is ready for relase for the end user and when it executes on th target machine after configuring all the applications going live with live data ,live input and that type of environment is callled as production environment .
+
+
+now what is a framework suppose i want to make an building of 15 floors as an architecht i have given two options one is plain land and another is i am given a extremely strong ready made foundation means grond flooor first floor and second floor is ready responsibility is to extend it so whch one is better i will say second one we know we will exploit the knowledge of ours in the first one because we are starting from scratch so in this processs as u are starting form scratch and we will get the option of exploting the knowledge of ours the way we want it and u are the one deciding the architecture so if anything goes wrong whole building will collapse so u need to very intelligent and very expereince for this first task so in the second option i am already saying something really very strong exsisting so eventhough i am novice programmer i can do something with second one 
+
+now according to ur way u go framework is logically realted things kept at one place like humanbeing example C framework,java framework and .net framework and tell the difference one language ,one compiler and one source code in all but in .net framework means collection of namesapce and this has collection of classes and interfaces and then tell defnition from the slide u tell them .so .net allows mixed language programming like that u say okay .
+
+so it is the framework given by microsoft and this framework i can also write and u can also write but that does not mean that we are going to write excellent framework so this framework is devloped by microsoft and if we want to devlop various kinds of applications using .net this framework is required .it is very strong framework ,extensible framework and easy to use framework.As this framework is developed by gaint like microsoft it has become now an universal standard for development of discrete type of applications on windows platform .
+
+If something is there already exsisting then u will get the idea on how to use it okay .
+
+---->Next show them slide 4 now and go deep into that disscusiion into platform in that as u can tell by seeing the picture only .so the notes is like this .
+
+for assembly language code hardware itself is a plaform means the environment which is required for the devlopment of code.
+now for applictions written in c and c++ operating system is the platform so we can say application is immedeately depenent on os so if tommorow if i change my os then my c/c++ applications will not execute so it is platform dependent and coming to java if we have jre then any java application can run simalalry if i want to execute unix program we jre of unix operating system for java to run so java is the only language which is platform indepent language in the world now coming to .net .net is also platform independent and as it is not depending upon os it depends upon the framework we should have,the main difference is .net framewok is not available in all the os and remaining things u can explain using slide only .For all the version of windows operating system .net framework is avaialable but for only few other operating system .net framework is avaialable not like jre which is available for all the operating system ,as it is opensource technology we can get it but .net is personal and they are not interested to sell their software like java .
+
+
+
+so according to the slide for java jre is the platform not the os we have to install jre of corresponding os and this make java applications portable and platform independent .The main difference between jre and .net framework is jre is available in lot of operating systm where as .net framework is not avaibale in all the operating system .It is indeed available on all the version of windoes operating system right from 98,me,xp,2000,xp sp1 sp2 windows 7 and all ok .And there is .net framework software avaiable for linux also called as mono.net and other operating system but other than windows or os othr than microsoft there is not 100% dotnetframework implementation available .so for this reason we say it is not completely platform independent but platform independent within the .net framework .
+
+you can draw the diagram of star representing all languages and xml to transfer the things .
+
+so .net framework is available for alll versions of windows and microsoft is concentrating more only on windows platform and it is available for windows phone 7 also which we will seeing some programs in this also.so this is all about platform so what is a platform so it is an environment on which ur application is  immedeately dependent upon it may be hardware ,it can be operating system ,or it can be a special software given by particular vendor like jre or .net framework sofware .
+
+Note tell them that in java lot of coding is required and we need to configure lot of things but in .net ready made predefined functions which can be used readily that is why they dont or not making it  open source and concentrating on their versions of os and something which is developed by own is kept as private only naaa.
+
+
+
+now what are the compoenents of .net framework :
+show them slide 5 now and try explaining the things by seeing that  slide only that is enough  okay.
+
+On the development platform we should have both sdk and runtime environment and tools but in production environment sdk is not required only runtime is enough is java free yes then is .net freee yes it is indeed free for all licensed version of windows operating system,if u have geninune windows os u can directly install framework by donwloading from the microsoft websites and  u dont have to seperately purchase .net framework and then is .net development free yes it is free we need sdk ,runtime and notepad or any text editor but we are seeing in industry that from many years companies are using visual studio .net tool and then seeing the slide talk about it rapid application tool and tell that is extensible also means i can include php pluging to work with php programming into it .Tell them visual studio .net is not free it is commericail product it is not free like that and the current version which we will using in our program is visual studio 2010 and then talk about what u will get in .net software and u tell that anywhere in the world for developing application u require this tool but for java in different companies we are using diiferent tools like eclipse,netbeans and many more we have to configure it by putting lot of plugins and all so it is better like that u tell .
+
+
+
+
+variable:
+_________
+
+Anything which has got capacity to vary by itself is called a variable.They are the names given to the location in the memory of the computer which may store different values at different instances of time .what do the computer programs do they manage information so variables are a  way to store the information.
+variables exsist in memory means when application is running they are present okay  and they will not be there in hard drives but if want you can copy the information present inside the varibles into the files using file handling techniques and from files you can copy back into the varibales .Generally we can store data in databases as well but in the front end you want to store data means and less data can be stored then better you go for variables okay .you can create a variable as needed or at the start of the program and these variables have three components 
+--->Data Type means what type of data or information  you are storing is it a number ,character ,date or string .
+--->Name should be there so that you and compiler can understand and distinguish from one variable to another .
+--->value which is nothing but the information stored in the variable.
+
+creating a variable :
+____________________
+
+variable creation involves data type and the logical name for that variable.
+
+eg: int age;
+
+Data Type:
+__________
+
+It defines what kind of values will be stored by a particular variable .In the above example int is one data  type and age is a variable of type  int .
+
+Constants :
+___________
+
+The values which will not change throught  the program is called as  constants and for this check module 2 slide as well 
+they are read only variables like and they are declared as variables and values cannot be changed for example pi is also a one type of constant .
+  
+  eg: 2x + 3y=90;
+  
+  here 2,3 and 90 are constants 
+  where as x,y are variables .
+  
+  constants are way to store constants and enumeration are way to store related constants and structs are like enums only but they can store any data type let us see some coding in three of this below okay .
+  
+  
+  Identifiers :
+_____________
+  
+  The name of a variable ,function are 
+  called as identifers.we have to follow
+  certain rules while writing identifiers
+  
+  -->no space between words if u want
+     to use space use  underscore 
+  -->dont start an identifier with a
+      number or special symbols like
+      $,# etc
+  -->u can start a variable name with 
+     _ also and use numbers in between
+      but not at the starting
+  -->The name should sound logical.
+    
+Data types are of two types one is built in data types and other reference data types .
+
+printing and scanning values from users :
+----------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Printdemo
+{
+     class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int x, y, z;
+            Console.WriteLine("enter values in x and y ...");
+            x = Convert.ToInt32(Console.ReadLine());
+            y=int.Parse(Console.ReadLine());
+            z = x + y;
+            Console.WriteLine("The sum of {0} and {1} is {2}", x, y, z);
+            Console.WriteLine("The sum of {0,7} and {1,8} is {2,7}", x, y, z);
+            Console.WriteLine("The sum of "+ x+", "+y+", "+z);
+            Console.WriteLine($"The sum of {x}  and {y} and {z}");
+
+            // print constants 
+            Console.WriteLine("{0}", 34.56);
+            Console.WriteLine("Febuary has {0} or {1}", 28, 29);
+          
+            //taking values in a single line 
+            Console.WriteLine("enter values in single line comm seeprated ");
+            string input = Console.ReadLine();
+            int m, n;
+            m = Convert.ToInt32(input.Split(',')[0]);
+            n = Convert.ToInt32(input.Split(',')[1]);
+            Console.WriteLine($"The sum of {m} and {n} is {m + n}");
+            Console.WriteLine("enter values in single line and chooose your delimiters");
+            string input1= Console.ReadLine();
+            char[] chars = new char[] { ',','-','$','.' };
+            int m1, n1;
+            m1 = Convert.ToInt32(input1.Split(chars)[0]);
+            n1 = Convert.ToInt32(input1.Split(chars)[1]);
+            Console.WriteLine($"The sum of {m1} and {n1} is {m1 + n1}");
+            Console.WriteLine($"int max value :{int.MaxValue}\n int min value : {int.MinValue}");
+            Console.WriteLine($"byte max value :{byte.MaxValue}\n int min value : {byte.MinValue}");
+            //some more data type 
+            decimal kk = 345.45M;// for decimal use convention M
+            float ss = 23.567F; // for float convention F i have to use 
+            double jj = 34590.678;
+            string name = "sudha";
+            char ch = 'A';
+            
+
+            Console.WriteLine($"{kk}--{ss}--{jj}--{name}--{ch}");
+            Console.ReadLine();
+
+        }
+    }
+}
+
+
+
+operators and expressions:
+--------------------------
+An expression can be defined as when two operands are being operated by one operator we call it as expression
+
+eg: 50 + 75
+     A > B
+
+Based on type of operator expressions are the following
+
+Arthematic,relational,logical 
+
+1)arthematic : +,-,*,/,%
+2)relational :<,>,<=,>=,!=,==
+3)logical : &&,||,!
+ 
+ 
+Use of 1): To perform basic arthematic operations
+Use of 2): To check some condition result of condition will be  always true or false ,In C 1 means true and 0 means            false 
+            eg: x=50;
+            x!=0     1
+            x>0      1
+            x<0      0
+Use of 3): To check one or more conditions we go for logical && 
+           and logical || operators ,Truth tables for && and ||
+
+           cond1        cond 2      &&      ||
+           ------------------------------------
+            1             1          1       1
+            1             0          0       1
+            0		      1          0       1
+            0             0          0       0
+to check fail condtion:(m1<40 || m2<40  || m3<40) 
+to check pass condtion: (m1>40 && m2>40 && m3>40)
+
+ Not operator ! will change completely the meaning of the expression means it will reverse the condition 
+
+  eg : x=50;
+      !(x>50)--->0
+	  
+	  
+	  
+	  
+what is the difference between a class and an object :
+------------------------------------------------------
+1)An object is a real world entity .
+Collection of objects having same attributes and behaviour is called a class .
+
+2)A class can have as many objects as we want .class is a logical representation where as object is a physical representation
+
+3)class doest not have life time but an object will have a life time ,start time of object is constructor and end time is destructor .
+
+4)class doesnt occupy memory but objects occupy memory .
+
+
+object :
+--------
+every object will have three things 
+
+1)properties 
+2)methods 
+3)events
+
+eg: student is an object 
+
+  properties : handsome,goodlooking 
+  event :    coming to the class
+  method: learning .net with raghu
+
+   car is an object 
+ 
+  properties : wheels,windows
+  event      : moving car
+  method     : driving 
+
+properties are the intial features of an object we can access the properties at design time and also at run time
+
+Methods are run time features which are accessed only at run time by implementing logic inside it.
+
+events are actions and every event performs some specific action.
+
+
+program code :(taken from  in Week1Day1Projects) 
+-----------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using CubeDemo;
+
+namespace classobjectdemo
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+       
+        class Employee
+        {
+            int salary;
+            int bonus;
+
+            public void tsal(int sal1,int bonus1)
+            {
+                salary = sal1;
+                bonus = bonus1;
+                MessageBox.Show("The total salary is " +(salary + bonus));
+            }
+
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Employee ee = new Employee();
+            ee.tsal(Convert.ToInt32(textBox1.Text), Convert.ToInt32(textBox2.Text));
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CubeExample obj = new CubeExample();
+            MessageBox.Show("the value is " + obj.cube(Convert.ToInt32(textBox1.Text)));
+
+        }
+    }
+}
+
+
+
+Reusable Features from C#.net :(Assemblies  ) 
+_________________________________________________________________________________________
+whatver program we are writing we are writing  in some namesapce when we build them then assembly is created for the program 
+if in my progam entry point function main method or button click is there then when we compile it or build it  exe will be created executble file but when i build a class or when my program is not having main method then its dll will be created which is called as dynamic link library .
+
+when u wan to create dll file means assembly without an main method then u have to use class library template for it 
+
+There are two types of assemblies one is shared assembly given by .net and they are stored in GAC (Global assemby cache)
+
+and another is provate asssembly the assembly which we are creating 
+
+namespaces are logical when we build them they become physical parts which are assemblies 
+
+
+
+uisng class library template 
+
+assembly created here dll 
+-----------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace CubeFinding
+{
+    public class FindCube
+    {
+
+        public int Cube(int x)
+		{
+            return (x * x * x);
+		}
+    }
+}
+
+check the demos of console application i had integrated this dll here 
+
