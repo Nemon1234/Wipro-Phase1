@@ -1,0 +1,10 @@
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\bin\Debug\callbyvalueandreferences.exe.config
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\bin\Debug\callbyvalueandreferences.exe
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\bin\Debug\callbyvalueandreferences.pdb
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\obj\Debug\callbyvalueandreferences.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\obj\Debug\callbyvalueandreferences.Form1.resources
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\obj\Debug\callbyvalueandreferences.Properties.Resources.resources
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\obj\Debug\callbyvalueandreferences.csproj.GenerateResource.cache
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\obj\Debug\callbyvalueandreferences.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\obj\Debug\callbyvalueandreferences.exe
+D:\GreatLearning4\Day2\Day2Projects\callbyvalueandreferences\obj\Debug\callbyvalueandreferences.pdb

@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Day2\\Day2Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D2B3B7-EB68-4D6C-9096-BAF863B7E9C5}|Jumpstatements\\Jumpstatements.csproj|d:\\greatlearning4\\day2\\day2projects\\jumpstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D2B3B7-EB68-4D6C-9096-BAF863B7E9C5}|Jumpstatements\\Jumpstatements.csproj|solutionrelative:jumpstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A7F0B9-9B4B-4BEB-832B-85D5E35869CB}|switchdemo\\switchdemo.csproj|d:\\greatlearning4\\day2\\day2projects\\switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A7F0B9-9B4B-4BEB-832B-85D5E35869CB}|switchdemo\\switchdemo.csproj|solutionrelative:switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB76EDE-AF2F-45AA-8F8E-5625177A8C5C}|loopsdemo\\loopsdemo.csproj|d:\\greatlearning4\\day2\\day2projects\\loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB76EDE-AF2F-45AA-8F8E-5625177A8C5C}|loopsdemo\\loopsdemo.csproj|solutionrelative:loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD481818-F712-4228-8268-2E4219FF8990}|ifdemos\\ifdemos.csproj|d:\\greatlearning4\\day2\\day2projects\\ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD481818-F712-4228-8268-2E4219FF8990}|ifdemos\\ifdemos.csproj|solutionrelative:ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37457C0F-81AC-4C05-AA89-A23CF7BBD622}|NullableTypes\\NullableTypes.csproj|d:\\greatlearning4\\day2\\day2projects\\nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37457C0F-81AC-4C05-AA89-A23CF7BBD622}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CEB7CD-1936-4795-B845-2900025600E3}|StringInBuiltFunctions\\StringInBuiltFunctions.csproj|d:\\greatlearning4\\day2\\day2projects\\stringinbuiltfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CEB7CD-1936-4795-B845-2900025600E3}|StringInBuiltFunctions\\StringInBuiltFunctions.csproj|solutionrelative:stringinbuiltfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4034C0E0-83FA-446A-960B-EC807C8C1161}|BoxingandUnboxing\\BoxingandUnboxing.csproj|d:\\greatlearning4\\day2\\day2projects\\boxingandunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4034C0E0-83FA-446A-960B-EC807C8C1161}|BoxingandUnboxing\\BoxingandUnboxing.csproj|solutionrelative:boxingandunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CE7E5E-BD64-4651-AC20-5CBFA0DF67A4}|callbyvalueandreferences\\callbyvalueandreferences.csproj|d:\\greatlearning4\\day2\\day2projects\\callbyvalueandreferences\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CE7E5E-BD64-4651-AC20-5CBFA0DF67A4}|callbyvalueandreferences\\callbyvalueandreferences.csproj|solutionrelative:callbyvalueandreferences\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CE7E5E-BD64-4651-AC20-5CBFA0DF67A4}|callbyvalueandreferences\\callbyvalueandreferences.csproj|d:\\greatlearning4\\day2\\day2projects\\callbyvalueandreferences\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00CE7E5E-BD64-4651-AC20-5CBFA0DF67A4}|callbyvalueandreferences\\callbyvalueandreferences.csproj|solutionrelative:callbyvalueandreferences\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\Jumpstatements\\Program.cs",
+              "RelativeDocumentMoniker": "Jumpstatements\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\Jumpstatements\\Program.cs",
+              "RelativeToolTip": "Jumpstatements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:41:46.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\loopsdemo\\Program.cs",
+              "RelativeDocumentMoniker": "loopsdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\loopsdemo\\Program.cs",
+              "RelativeToolTip": "loopsdemo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:35:15.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\switchdemo\\Program.cs",
+              "RelativeDocumentMoniker": "switchdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\switchdemo\\Program.cs",
+              "RelativeToolTip": "switchdemo\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwCwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:04:45.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\ifdemos\\Program.cs",
+              "RelativeDocumentMoniker": "ifdemos\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\ifdemos\\Program.cs",
+              "RelativeToolTip": "ifdemos\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T06:29:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\NullableTypes\\Program.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\NullableTypes\\Program.cs",
+              "RelativeToolTip": "NullableTypes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T06:10:38.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\StringInBuiltFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "StringInBuiltFunctions\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\StringInBuiltFunctions\\Program.cs",
+              "RelativeToolTip": "StringInBuiltFunctions\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwE0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:17:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\BoxingandUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "BoxingandUnboxing\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\BoxingandUnboxing\\Program.cs",
+              "RelativeToolTip": "BoxingandUnboxing\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:59:37.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\callbyvalueandreferences\\Form1.cs",
+              "RelativeDocumentMoniker": "callbyvalueandreferences\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\callbyvalueandreferences\\Form1.cs",
+              "RelativeToolTip": "callbyvalueandreferences\\Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:35:10.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Day2\\Day2Projects\\callbyvalueandreferences\\Form1.cs",
+              "RelativeDocumentMoniker": "callbyvalueandreferences\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Day2\\Day2Projects\\callbyvalueandreferences\\Form1.cs [Design]",
+              "RelativeToolTip": "callbyvalueandreferences\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:32:01.748Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

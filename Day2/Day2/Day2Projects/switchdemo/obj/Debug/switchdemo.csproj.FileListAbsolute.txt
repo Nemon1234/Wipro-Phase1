@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day2\Day2Projects\switchdemo\bin\Debug\switchdemo.exe.config
+D:\GreatLearning4\Day2\Day2Projects\switchdemo\bin\Debug\switchdemo.exe
+D:\GreatLearning4\Day2\Day2Projects\switchdemo\bin\Debug\switchdemo.pdb
+D:\GreatLearning4\Day2\Day2Projects\switchdemo\obj\Debug\switchdemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day2\Day2Projects\switchdemo\obj\Debug\switchdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day2\Day2Projects\switchdemo\obj\Debug\switchdemo.exe
+D:\GreatLearning4\Day2\Day2Projects\switchdemo\obj\Debug\switchdemo.pdb

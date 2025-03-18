@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day2\Day2Projects\StringInBuiltFunctions\bin\Debug\StringInBuiltFunctions.exe.config
+D:\GreatLearning4\Day2\Day2Projects\StringInBuiltFunctions\bin\Debug\StringInBuiltFunctions.exe
+D:\GreatLearning4\Day2\Day2Projects\StringInBuiltFunctions\bin\Debug\StringInBuiltFunctions.pdb
+D:\GreatLearning4\Day2\Day2Projects\StringInBuiltFunctions\obj\Debug\StringInBuiltFunctions.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day2\Day2Projects\StringInBuiltFunctions\obj\Debug\StringInBuiltFunctions.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day2\Day2Projects\StringInBuiltFunctions\obj\Debug\StringInBuiltFunctions.exe
+D:\GreatLearning4\Day2\Day2Projects\StringInBuiltFunctions\obj\Debug\StringInBuiltFunctions.pdb

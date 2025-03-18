@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\bin\Debug\loopsdemo.exe.config
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\bin\Debug\loopsdemo.exe
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\bin\Debug\loopsdemo.pdb
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\obj\Debug\loopsdemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\obj\Debug\loopsdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\obj\Debug\loopsdemo.exe
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\obj\Debug\loopsdemo.pdb

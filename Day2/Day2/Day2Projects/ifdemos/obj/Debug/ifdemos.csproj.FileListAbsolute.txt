@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day2\Day2Projects\ifdemos\bin\Debug\ifdemos.exe.config
+D:\GreatLearning4\Day2\Day2Projects\ifdemos\bin\Debug\ifdemos.exe
+D:\GreatLearning4\Day2\Day2Projects\ifdemos\bin\Debug\ifdemos.pdb
+D:\GreatLearning4\Day2\Day2Projects\ifdemos\obj\Debug\ifdemos.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day2\Day2Projects\ifdemos\obj\Debug\ifdemos.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day2\Day2Projects\ifdemos\obj\Debug\ifdemos.exe
+D:\GreatLearning4\Day2\Day2Projects\ifdemos\obj\Debug\ifdemos.pdb
