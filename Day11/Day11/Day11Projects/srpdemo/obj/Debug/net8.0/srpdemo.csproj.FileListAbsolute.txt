@@ -1,0 +1,14 @@
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\bin\Debug\net8.0\srpdemo.exe
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\bin\Debug\net8.0\srpdemo.deps.json
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\bin\Debug\net8.0\srpdemo.runtimeconfig.json
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\bin\Debug\net8.0\srpdemo.dll
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\bin\Debug\net8.0\srpdemo.pdb
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\srpdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\srpdemo.AssemblyInfoInputs.cache
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\srpdemo.AssemblyInfo.cs
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\srpdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\srpdemo.dll
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\refint\srpdemo.dll
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\srpdemo.pdb
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\srpdemo.genruntimeconfig.cache
+D:\GreatLearning4\Day11\Day11Projects\srpdemo\obj\Debug\net8.0\ref\srpdemo.dll
