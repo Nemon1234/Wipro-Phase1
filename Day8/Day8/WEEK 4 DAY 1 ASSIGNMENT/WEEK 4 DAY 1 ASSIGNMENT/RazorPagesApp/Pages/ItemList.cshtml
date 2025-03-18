@@ -1,0 +1,11 @@
+﻿@page
+@model ItemListModel
+<h2>Items List</h2>
+
+<ul>
+@foreach (var item in Model.Items)
+{
+    <li>@item</li>
+}
+</ul>
+

@@ -1,0 +1,60 @@
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.staticwebassets.runtime.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.exe
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.deps.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.runtimeconfig.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.dll
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.pdb
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.MiddleWareApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MiddleWareApp.props
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiddleWareApp.props
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiddleWareApp.props
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\scopedcss\bundle\MiddleWareApp.styles.css
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\scopedcss\projectbundle\MiddleWareApp.bundle.scp.css
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.dll
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\refint\MiddleWareApp.dll
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.pdb
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\ref\MiddleWareApp.dll
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\appsettings.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.staticwebassets.runtime.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.exe
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.deps.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.runtimeconfig.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.dll
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\bin\Debug\net6.0\MiddleWareApp.pdb
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.AssemblyInfoInputs.cache
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.AssemblyInfo.cs
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.csproj.CoreCompileInputs.cache
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.RazorAssemblyInfo.cache
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.RazorAssemblyInfo.cs
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.MiddleWareApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MiddleWareApp.props
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiddleWareApp.props
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiddleWareApp.props
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\scopedcss\bundle\MiddleWareApp.styles.css
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\scopedcss\projectbundle\MiddleWareApp.bundle.scp.css
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.dll
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\refint\MiddleWareApp.dll
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.pdb
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\MiddleWareApp.genruntimeconfig.cache
+C:\Users\raghavendra\Downloads\WEEK 4 DAY 1 ASSIGNMENT\WEEK 4 DAY 1 ASSIGNMENT\MiddleWareApp\obj\Debug\net6.0\ref\MiddleWareApp.dll
