@@ -1,0 +1,486 @@
+Certain methods will have the same name as that of class those methods are called as constructors and they will intilize the properties of  the class variables and we also have static constructors as well which will be called only one time eventhough we declare the constructor object many times 
+
+In functions we have named paramters and optional parameters as well named means i can decide the order and as per the order i can passs values inside the function and optional means if i dont supply the function parameters and directly call the function then default or optional value which i had kept in function header that will be substituted 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace constructordemo
+{
+    class Customer
+    {
+        public int customerid;
+        public string custname;
+
+        public  Customer()//default constructor 
+        {
+            Console.WriteLine("Default constructor ..");
+            this.customerid = 1001;
+            this.custname = "Suresh";
+            Console.WriteLine($"{customerid}--{custname}");
+        }
+        static Customer()
+        {
+            Console.WriteLine("static constructor ..");
+        }
+        public Customer(int cid,string custname1)
+        {
+            Console.WriteLine("paramatierzed constructor ..");
+
+            this.customerid = cid;
+            this.custname = custname1;
+            Console.WriteLine($"{customerid}--{custname}");
+
+        }
+
+        public Customer(Customer c)
+        {
+            Console.WriteLine("copy constructor ..");
+
+            this.customerid = c.customerid;
+            this.custname = c.custname;
+            Console.WriteLine($"{customerid}--{custname}");
+        }
+
+
+    }
+     class Program
+    {
+        public static void ShowMessage(int age=22 ,string name="Mr.X")//optional paramerts
+        {
+            Console.WriteLine($"The person with name {name} is having age {age}");
+        }
+        static void Main(string[] args)
+        {
+            Customer defaultcustomer = new Customer();//default
+            Customer defaultcustomer2 = new Customer();//default
+            Customer paraconst = new Customer(1002,"Ravi");//paramatized
+            Customer cc2 = new Customer(1003, "sudha");
+            Customer cc5 = new Customer(cc2);
+            Customer cc4 = new Customer(defaultcustomer);//copy constructor
+            ShowMessage(23, "santosh");
+            // as per my order i want to send valeus which is named paramter 
+            ShowMessage(name: "ramesh", age: 34);//named paramters 
+            ShowMessage(); //optional
+            ShowMessage(18);// one is given another will be default 
+
+            Console.ReadLine();
+
+        }
+    }
+}
+
+
+Extension Methods :
+------------------
+Extension methods in C# are a powerful feature that allows you to "add" methods to existing types without modifying the original type or creating a new derived type. This is particularly useful when you want to add functionality to classes that you don't have the source code for or can't modify (such as classes from the .NET framework).
+
+How Extension Methods Work
+Extension methods are static methods defined in static classes. They are called as if they were instance methods on the extended type. The first parameter of an extension method specifies which type the method extends, and it is preceded by the this keyword.
+
+
+
+using System;
+
+public static class StringExtensions
+{
+    // Extension method to check if a string is a palindrome
+    public static bool IsPalindrome(this string str)
+    {
+        if (string.IsNullOrEmpty(str))
+            return false;
+
+        int i = 0;
+        int j = str.Length - 1;
+
+        while (i < j)
+        {
+            if (str[i] != str[j])
+                return false;
+            i++;
+            j--;
+        }
+
+        return true;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        string example1 = "madam";
+        string example2 = "hello";
+
+        // Using the extension method as if it were an instance method
+        Console.WriteLine(example1.IsPalindrome()); // Output: True
+        Console.WriteLine(example2.IsPalindrome()); // Output: False
+    }
+}
+using System;
+
+public static class IntExtensions
+{
+    // Extension method to check if an integer is odd
+    public static bool IsOdd(this int number)
+    {
+        // A number is odd if it is not divisible by 2
+        return number % 2 != 0;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        int number1 = 5;
+        int number2 = 8;
+
+        // Using the extension method IsOdd on integers
+        Console.WriteLine($"{number1} is odd: {number1.IsOdd()}"); // Output: 5 is odd: True
+        Console.WriteLine($"{number2} is odd: {number2.IsOdd()}"); // Output: 8 is odd: False
+    }
+}
+
+enumurations:
+-------------
+symbolic names given to integral constants is called enum or enumerations refer for module 2 as well 
+here we can also say they are collection of related constants and it has a name and numeric data type it has number  of fileds each with name and value .
+
+like weekdays--sun,mon,tuesday  are enumerations.
+
+
+
+
+using System;
+
+public enum Weekdays
+{
+    Sunday,
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday,
+    Friday,
+    Saturday
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Get the current day of the week
+        DayOfWeek currentDay = DateTime.Now.DayOfWeek;
+
+        // Convert the current day to our Weekdays enum
+        Weekdays today = (Weekdays)currentDay;
+
+        Console.WriteLine($"Today is: {today}");
+
+        // Check if today is a weekday or weekend
+        if (today == Weekdays.Saturday || today == Weekdays.Sunday)
+        {
+            Console.WriteLine("It's the weekend! Enjoy your day off.");
+        }
+        else
+        {
+            Console.WriteLine("It's a weekday. Time to work!");
+        }
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+
+// Define the EmployeeType enum
+public enum EmployeeType
+{
+    FullTime,
+    PartTime,
+    Contract
+}
+
+// Define the Employee class
+public class Employee
+{
+    public int ID { get; set; }
+    public string Name { get; set; }
+    public decimal Salary { get; set; }
+    public EmployeeType Type { get; set; } // Enum field to store employee type
+
+    // Constructor to initialize Employee fields
+    public Employee(int id, string name, decimal salary, EmployeeType type)
+    {
+        ID = id;
+        Name = name;
+        Salary = salary;
+        Type = type;
+    }
+
+    // Method to display employee details
+    public void DisplayDetails()
+    {
+        Console.WriteLine($"ID: {ID}, Name: {Name}, Salary: {Salary:C}, Type: {Type}");
+    }
+}
+
+// Define the EmployeeManagement class
+public class EmployeeManagement
+{
+    private List<Employee> employees = new List<Employee>(); // List to store employees
+
+    // Method to add an employee to the list
+    public void AddEmployee(Employee employee)
+    {
+        employees.Add(employee);
+        Console.WriteLine($"Employee '{employee.Name}' added.");
+    }
+
+    // Method to display details of all employees
+    public void DisplayAllEmployees()
+    {
+        Console.WriteLine("\nEmployee Details:");
+        foreach (var employee in employees)
+        {
+            employee.DisplayDetails();
+        }
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Create an instance of EmployeeManagement
+        EmployeeManagement empManagement = new EmployeeManagement();
+
+        // Create employees
+        Employee emp1 = new Employee(1, "Alice Smith", 60000m, EmployeeType.FullTime);
+        Employee emp2 = new Employee(2, "Bob Johnson", 30000m, EmployeeType.PartTime);
+        Employee emp3 = new Employee(3, "Charlie Brown", 40000m, EmployeeType.Contract);
+
+        // Add employees to the management system
+        empManagement.AddEmployee(emp1);
+        empManagement.AddEmployee(emp2);
+        empManagement.AddEmployee(emp3);
+
+        // Display all employees
+        empManagement.DisplayAllEmployees();
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace enumsdemo
+{
+    // enum : symbolic names given to integral constants 
+    //  u cannot declare enum inside the method of main outisde 
+    // only declare 
+
+   
+    class Program
+    {
+        enum weekdays { sun,mon,tue,wed,thu,fri,sat};
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("{0}",(int) weekdays.tue);
+            Console.ReadLine();
+           
+            
+
+        }
+    }
+}
+
+Exception :
+----------
+An abnormal event that disrupts the normal flow of programming is called as an exception 
+we can say run time error 
+
+
+eg: you are trying to open a file which is not present an exception will come 
+
+
+where there is a possiblity of error that code is kept in try block
+
+and for to catch error we use catch block where we write user defined message in catch .
+
+for one try block there can be multiple catch blocks based upon type of exceptions occur.
+
+whether exception comes or not comes i want my code to be executed i use finally block 
+
+
+try -->catch-->finally is okay 
+try -->catch is okay 
+try-->finally 
+
+in between try and catch nothing should be used except comments // 
+
+we can create our own exceptions and throw in .net there is no throws only throw is there in .net
+
+more versions of code u can find in code share okay ...
+
+
+codes done in class 
+-----------------------
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Diagnostics;
+namespace Exceptiondemo
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int a = Convert.ToInt32(textBox1.Text);
+                int b = Convert.ToInt32(textBox2.Text);
+                int c = a / b;
+                textBox3.Text = c.ToString();
+
+            }
+            // dont write any thing here 
+            // only comments 
+            catch (DivideByZeroException ex)
+            {
+
+                MessageBox.Show("please dont enter zero as denimonator: " + ex.Message);
+            }
+
+            catch (FormatException ex)
+            {
+
+                MessageBox.Show("please dont enter characters or special symbols: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("some genral error " + ex.Message);
+            }
+            finally
+            {
+                MessageBox.Show(" I am still alive ");
+            }
+
+
+        }
+       public class AxisBankException :ApplicationException
+        {
+            public AxisBankException(string message):base(message) 
+            {
+                    
+            }
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int age = Convert.ToInt32(textBox4.Text);
+                if (age < 18)
+                {
+                    AxisBankException obj = new AxisBankException("AxisBankException:Age should be above 18 to open an account");
+                    throw obj;
+                }
+                else
+                {
+
+                    System.Diagnostics.Process.Start(new ProcessStartInfo
+                    {
+                        FileName = "https://www.axisbank.com/",
+                        UseShellExecute = true
+                    });
+
+                }
+            }
+            catch (AxisBankException axisobj)
+            {
+
+               MessageBox.Show(axisobj.Message);
+            }
+
+        }
+    }
+}
+
+
+exception demo in console 
+---------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ExceptiondemoinConsole
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Enter value in a ...");
+            int a = Convert.ToInt32(Console.ReadLine());
+        L1: Console.WriteLine("enter value in b..");
+            int b = Convert.ToInt32(Console.ReadLine());
+            try
+            {
+                int c = a / b;
+
+
+                Console.WriteLine("the ddivision result is {0}", c);
+
+
+            }
+            //comments can come nothing 
+            catch (DivideByZeroException ee)
+            {
+
+                Console.WriteLine("dont enter denominator as zero:" + ee.Message);
+                goto L1;
+
+            }
+            catch (FormatException ee)
+            {
+
+                Console.WriteLine("dont enter chacters and special symbols: " + ee.Message);
+                goto L1;
+            }
+            catch (Exception ee)
+            {
+                Console.WriteLine("some geenral error check it :" + ee.Message);
+                goto L1;
+            }
+
+            finally
+            {
+
+                Console.WriteLine("I am still alive ...");
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
+
